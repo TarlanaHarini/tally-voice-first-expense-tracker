@@ -81,3 +81,23 @@ https://tarlanaharini.github.io/portfolio/
 ## Figma Design
 
 https://www.figma.com/design/Sp8sPu8VFapxfEoZBwJar0/TARLANA-HARINI-Task-B---Voice-First-Expense-Tracker?node-id=0-1&t=XfYk5soMHIkf1Dxl-1
+
+## Screenshots
+
+### Overview
+![Overview](overview.png)
+
+### Voice Capture
+![Voice Capture](voice-capture.png)
+
+### Processing
+![Processing](processing.png)
+
+### Confirmation
+![Confirmation](confirmation.png)
+
+### Responsive Tablet Design
+![Responsive Tablet](responsive-tablet.png)
+
+### Components
+![Components](Components.png)
