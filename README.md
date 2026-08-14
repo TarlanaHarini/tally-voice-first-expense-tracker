@@ -88,7 +88,7 @@ https://www.figma.com/design/Sp8sPu8VFapxfEoZBwJar0/TARLANA-HARINI-Task-B---Voic
 ![Overview](Overview.png)
 
 ### Voice Capture
-![Voice Capture](Voice Capture .png)
+![Voice Capture](Voice%20Capture .png)
 
 ### Processing
 ![Processing](Processing.png)
@@ -96,8 +96,10 @@ https://www.figma.com/design/Sp8sPu8VFapxfEoZBwJar0/TARLANA-HARINI-Task-B---Voic
 ### Confirmation
 ![Confirmation](Confirmation.png)
 
+### Components
+![Components](Components.png)
+
 ### Responsive Tablet Design
 ![Responsive Tablet](responsive-tablet.png)
 
-### Components
-![Components](Components.png)
+
