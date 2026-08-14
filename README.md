@@ -88,7 +88,7 @@ https://www.figma.com/design/Sp8sPu8VFapxfEoZBwJar0/TARLANA-HARINI-Task-B---Voic
 ![Overview](Overview.png)
 
 ### Voice Capture
-![Voice Capture](Voice%20Capture .png)
+![Voice Capture](Voice%20Capture%20.png)
 
 ### Processing
 ![Processing](Processing.png)
