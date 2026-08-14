@@ -85,16 +85,16 @@ https://www.figma.com/design/Sp8sPu8VFapxfEoZBwJar0/TARLANA-HARINI-Task-B---Voic
 ## Screenshots
 
 ### Overview
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ### Voice Capture
-![Voice Capture](voice-capture.png)
+![Voice Capture](Voice Capture.png)
 
 ### Processing
-![Processing](processing.png)
+![Processing](Processing.png)
 
 ### Confirmation
-![Confirmation](confirmation.png)
+![Confirmation](Confirmation.png)
 
 ### Responsive Tablet Design
 ![Responsive Tablet](responsive-tablet.png)
